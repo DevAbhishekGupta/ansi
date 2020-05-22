@@ -1,0 +1,9 @@
+[control]
+ansiblemaster ansible_connection=local
+[centos]
+centos2
+centos3
+
+
+
+
